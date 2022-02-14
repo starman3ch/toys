@@ -1,0 +1,15 @@
+https://youtu.be/1RE5tSPO2RI
+https://goodthings4me.tistory.com/491
+
+
+
+=> mac일 경우, 먼저..
+$ pip install pyobjc
+$ pip install pyobjc-core
+
+=> then (win이면 바로)
+$ pip install pyautogui
+
+
+
+

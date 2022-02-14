@@ -1,0 +1,19 @@
+https://youtu.be/OzUzrs8uJl8
+
+몽고DB 클라우드 계정
+sandman
+아임해커??*
+
+
+
+$ pip install pipenv
+$ pipenv shell
+$ pipenv install -r requirements.txt
+
+$ uvicorn main:app --reload
+
+
+
+$ npx create-react-app {app-name}
+$ npm start
+$ npm i axios bootstrap

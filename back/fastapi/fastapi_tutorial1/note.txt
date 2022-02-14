@@ -1,0 +1,10 @@
+https://youtu.be/tLKKmouUams
+
+$ python -m pip install fastapi
+
+$ pip install uvicorn
+
+$ uvicorn myapi:app --reload
+
+- http://localhost:8000/
+- http://localhost:8000/docs
